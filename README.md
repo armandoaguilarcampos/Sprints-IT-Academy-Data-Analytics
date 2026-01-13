@@ -1,2 +1,2 @@
 # Sprints-IT-Academy-Data-Analytics
-Soluciones a los distintos sprints 
+Proyectos realizados en cada fase (sprints) del bootcamp.
